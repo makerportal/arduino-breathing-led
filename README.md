@@ -6,3 +6,7 @@ Breathing LED codes for Arduino using various functions that favor different bri
 ## How the functions behave:
 
 ![Breathing LED Plots](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/5e7e7b4c06b4c351220abee4/1585347417345/analog_write_functions_annotated.png?format=1000w)
+
+## Wiring an RGB LED to Arduino
+
+![RGB LED + Arduino Wiring](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/5e80cf40b4d27021658f6812/1585499982556/RGB_LED_Arduino_wiring_PWM.png?format=500w)
