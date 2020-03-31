@@ -1,6 +1,9 @@
 # Arduino Breathing LED Functions
 Breathing LED codes for Arduino using various functions that favor different brightnesses
 
+Full tutorial at: https://makersportal.com/blog/2020/3/27/simple-breathing-led-in-arduino
+
+
 ![Breathing LED Gif](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/5e8119067995013073a48907/1585518944021/rgb_led_breathing.gif?format=1000w)
 
 ## How the functions behave:
