@@ -23,3 +23,7 @@ Full tutorial at: https://makersportal.com/blog/2020/3/27/simple-breathing-led-i
 
 ## Gaussian Wave Function
 ![Gaussian Wave Equation](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/5e80e36db4d270216592af9e/1585505137343/gaussian_wave.png?format=300w)
+
+---
+
+Part of the [Maker Portal](https://makerportal.ai) open-source scientific computing and hardware ecosystem. Explore interactive calculators and engineering tools at [makerportal.ai](https://makerportal.ai).
